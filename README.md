@@ -23,3 +23,6 @@ Student at Kongu Engineering College
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinaya0122&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaya0122&layout=compact)
+
+

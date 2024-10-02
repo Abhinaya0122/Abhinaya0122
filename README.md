@@ -25,6 +25,6 @@ Student at Kongu Engineering College
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaya0122&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShyamsaranRajendran&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhinaya0122&theme=dark&hide_border=false)<br/>
 
 

@@ -21,7 +21,7 @@
 - Won first prize in an intra-department hackathon conducted in collobaration with Winfomi and Pentafox
 - Won first prize in Paper presentation conducted in Government College of Technology, Coimbatore
 - Won second prize in KEC hackathon conducted in Kongu Engineering College
-- Won Ideathon'24 in KEC conducted by IIC.
+- Won Ideathon'24 in KEC conducted by IIC-KEC
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinaya0122&show_icons=true&theme=radical)
 
